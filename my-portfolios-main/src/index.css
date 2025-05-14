@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-container {
+  @apply max-w-6xl mx-auto px-10;
+}
+.tag {
+  @apply inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2;
+}
+html {
+  scroll-behavior: smooth;
+  transition: all 0.3s;
+}
+body {
+  color: white;
+  background-color: #0b1121;
+}
+@keyframes scroll {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-100vh);
+  }
+}
+.list-disc > li {
+  list-style-type: disc;
+}
+
+.list-disc > li:before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}

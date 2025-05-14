@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Vastu Property Search",
+    "description": "A platform for finding Vastu-compliant properties in dubai, designed to enhance harmony",
+    "link": "https://vastupropertysearch.com/",
+    "image": "./img/vastu.webp",
+    "tags": ["Node js", "React", "MongoDB", "Express", "Tailwind CSS"],
+    "id": 23
+  },
+  {
+    "title": "Property Landing Website",
+    "description": "Webpage design and showcasing real estate properties for buyers and investors.",
+    "link": "https://damacislands.properties/",
+    "image": "./img/damac-island.webp",
+    "tags": ["React", "Next js", "Tailwind CSS", "Typescript"],
+    "id": 25
+  },
+  {
+    "title": "Landing Page",
+    "description": "A well-designed landing page for general purpose applications and compony profile website using latest front-end technologies",
+    "link": "https://a7medsr-landing.netlify.app",
+    "image": "./img/Landing.webp",
+    "tags": ["React", "Javascript", "Design"],
+    "id": 0
+  },
+  {
+    "title": "Netflix CLone",
+    "description": "Netflix clone web app using MERN (MongoDB, Express.js, React.js, and Node.js) stack technology and fetch the data from TMDB api",
+    "link": "https://netflixmovies-clone.vercel.app",
+    "image": "./img/Netflix.webp",
+    "tags": ["Node", "MongoDB", "Api", "React"],
+    "id": 6
+  },
+  {
+    "title": "Tour Management Api",
+    "description": "Tour management API that provides developers with access to data related to tour management.allows users to create and manage tours",
+    "link": "https://tripify.onrender.com/",
+    "image": "./img/trip.webp",
+    "tags": ["Node", "Express", "Api", "Pug"],
+    "id": 6
+  },
+  {
+    "title": "Foodyai",
+    "description": "Foodyai is an innovative meal subscription platform offering personalized, healthy food options designed to match dietary preferences.",
+    "link": "https://foodyai.netlify.app/",
+    "image": "./img/foodai.webp",
+    "tags": ["Design", "HTML", "CSS"],
+    "id": 1
+  }
+,  
+  {
+    "title": "Envox",
+    "description": "A web platform devoted to presenting top-tier real estate offerings in Dubai, aimed at enticing visitors",
+    "link": "https://envoxreal.com/",
+    "image": "img/Envox.webp",
+    "tags": ["Javascript", "Html", "CSS", "PHP"],
+    "id": 10
+  },
+  {
+    "title": "Autograph Realtors",
+    "description": "A website to explore premier Dubai real estate listings on our website, enticing visitors to find their dream property",
+    "link": "https://autographrealtors.com/",
+    "image": "img/Autograph.webp",
+    "tags": ["Javascript", "Html", "CSS", "PHP"],
+    "id": 9
+  },
+  {
+    "title": "D2el Platform",
+    "description": "Educational platform to provides students and educators with access to a wide range of educational resources",
+    "link": "https://d2el.com/",
+    "image": "img/d2el.webp",
+    "tags": ["Php", "Laravel", "Api"],
+    "id": 5
+  },
+
+  {
+    "title": "Maplex Resources website",
+    "description": "A web resources website is a platform that provides users with a wide range of resources to help them",
+    "link": "https://dev-rec.netlify.app/",
+    "image": "img/maplex.webp",
+    "tags": ["Ui/Ux", "Html", "CSS"],
+    "id": 4
+  },
+  {
+    "title": "Food Recipe App",
+    "description": "A food recipe app website that provides users with a comprehensive collection of recipes integrated with recipes api",
+    "link": "https://food-recipe-ahmed.netlify.app",
+    "image": "img/forkify.webp",
+    "tags": ["Javascript", "Api", "Html", "CSS"],
+    "id": 2
+  },
+  {
+    "title": "DXB Luxury",
+    "description": "A website to explore premier Dubai real estate listings on our website, enticing visitors to find their dream property.",
+    "link": "https://dxbluxuryoffplan.com/",
+    "image": "img/DXB.webp",
+    "tags": ["Javascript", "Html", "CSS", "PHP"],
+    "id": 2
+  },
+  {
+    "title": "Clip App",
+    "description": "Simple design for landing page, using css framework tailwind with minimal design for show cases",
+    "link": "https://clip-app.netlify.app",
+    "image": "img/app.webp",
+    "tags": ["Tailwind", "Html", "Design"],
+    "id": 3
+  }
+]
